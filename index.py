@@ -45,3 +45,4 @@ canvas1.create_window(150, 120, window=button1)
 button2 = tk.Button(text=' TTL HACK OFF ', command=ttlhackoff, bg='#7289DA', fg='white', font=('helvetica', 12, 'bold'))
 canvas1.create_window(150, 160, window=button2)
 root.mainloop()
+//penisman
